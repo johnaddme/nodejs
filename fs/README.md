@@ -53,6 +53,7 @@ options is an object with the following defaults:
 options 是一个具有如下默认值的对象：
 
 
+
 ```
 {
 'flags': 'w'
